@@ -1,0 +1,137 @@
+TrOCR LINE-BY-LINE OCR RESULTS
+============================================================
+
+Line 1: line_01.png
+Text: di
+Words: 1
+Average Confidence: 92.4%
+Word Details:
+  'di' - 92.4%
+Gap Detection: di
+
+------------------------------------------------------------
+
+Line 2: line_02.png
+Text: usser .
+Words: 2
+Average Confidence: 68.1%
+Word Details:
+  'usser' - 86.2%
+  '.' - 50.0%
+Gap Detection: usser [MASK]
+
+------------------------------------------------------------
+
+Line 3: line_03.png
+Text: handhorythen
+Words: 1
+Average Confidence: 62.2%
+Word Details:
+  'handhorythen' - 62.2%
+Gap Detection: handhorythen
+
+------------------------------------------------------------
+
+Line 4: line_04.png
+Text: fotic
+Words: 1
+Average Confidence: 80.3%
+Word Details:
+  'fotic' - 80.3%
+Gap Detection: fotic
+
+------------------------------------------------------------
+
+Line 5: line_05.png
+Text: handwriting machines that
+Words: 3
+Average Confidence: 99.9%
+Word Details:
+  'handwriting' - 99.7%
+  'machines' - 100.0%
+  'that' - 100.0%
+Gap Detection: handwriting machines that
+
+------------------------------------------------------------
+
+Line 6: line_06.png
+Text: actual pen to write y
+Words: 5
+Average Confidence: 85.4%
+Word Details:
+  'actual' - 89.9%
+  'pen' - 80.3%
+  'to' - 85.6%
+  'write' - 85.6%
+  'y' - 85.6%
+Gap Detection: actual pen to write y
+
+------------------------------------------------------------
+
+Line 7: line_07.png
+Text: message . The results
+Words: 4
+Average Confidence: 74.9%
+Word Details:
+  'message' - 99.9%
+  '.' - 99.6%
+  'The' - 50.0%
+  'results' - 50.0%
+Gap Detection: message . [MASK] results
+
+------------------------------------------------------------
+
+Line 8: line_08.png
+Text: medistinguishable from a virtual ally
+Words: 5
+Average Confidence: 60.5%
+Word Details:
+  'medistinguishable' - 53.2%
+  'from' - 62.3%
+  'a' - 62.3%
+  'virtual' - 62.3%
+  'ally' - 62.3%
+Gap Detection: medistinguishable from [MASK] virtual ally
+
+------------------------------------------------------------
+
+Line 9: line_09.png
+Text: handwriting
+Words: 1
+Average Confidence: 86.2%
+Word Details:
+  'handwriting' - 86.2%
+Gap Detection: handwriting
+
+------------------------------------------------------------
+
+Line 10: line_10.png
+Text: Try it today .
+Words: 4
+Average Confidence: 70.5%
+Word Details:
+  'Try' - 99.9%
+  'it' - 82.0%
+  'today' - 50.0%
+  '.' - 50.0%
+Gap Detection: Try it today [MASK]
+
+------------------------------------------------------------
+
+Line 11: line_11.png
+Text: The Robot
+Words: 2
+Average Confidence: 72.7%
+Word Details:
+  'The' - 95.4%
+  'Robot' - 50.0%
+Gap Detection: The Robot
+
+------------------------------------------------------------
+
+OVERALL STATISTICS
+============================================================
+Total lines: 11
+Successful extractions: 11
+Overall average confidence: 76.3%
+Quality rating: Good
